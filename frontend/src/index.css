@@ -1,7 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
- 
+
+body {
+  background-image: url('https://mig01.996399.xyz/The%20Hungry%20Lamb%202024_12_15%201_09_15.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  min-height: 100vh;
+}
+
 @layer base {
   :root {
     --background: 0 0% 100%;
