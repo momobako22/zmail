@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
           <p className="mb-2">© {year} {t('app.title')}</p>
           <div className="flex justify-center items-center space-x-4">
             <a 
-              href="https://zaunist.com" 
+              href="https://blog.momobako.me" 
               target="_blank" 
               rel="noopener noreferrer"
               className="hover:text-primary transition-colors"
@@ -22,7 +22,7 @@ const Footer: React.FC = () => {
               {t('common.blog')}
             </a>
             <a 
-              href="https://www.youtube.com/@zaunist" 
+              href="https://www.youtube.com/@aki_suou" 
               target="_blank" 
               rel="noopener noreferrer"
               className="hover:text-primary transition-colors"
